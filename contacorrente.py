@@ -1,0 +1,3 @@
+class Conta_Corrente:
+    def __init__(self, conta_corrente):
+        ...
