@@ -14,7 +14,7 @@ Banco
     Banco -> Conta
 Dicas:
 Criar classe Cliente que herda da classe Pessoa (Herança)
-    Pessoa tem nome e idade (com getters)
+    ok - Pessoa tem nome e idade (com getters)
     Cliente TEM conta (Agregação da classe ContaCorrente ou ContaPoupanca)
 Criar classes ContaPoupanca e ContaCorrente que herdam de Conta
     ContaCorrente deve ter um limite extra
